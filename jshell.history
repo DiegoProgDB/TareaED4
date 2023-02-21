@@ -1,0 +1,5 @@
+VAR#>git log
+EXPRESSION#>status
+VAR#>git log
+VAR#>git log
+VAR#>git init
